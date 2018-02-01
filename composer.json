@@ -1,5 +1,5 @@
 {
-  "name": "c006/yii2-migration-utility",
+  "name": "eseperio/yii2-migration-utility",
   "description": "Automatically writes the create tables for migrations or create tables in general",
   "type": "yii2-extension",
   "keywords": [
